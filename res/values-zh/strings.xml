@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">应用内谷歌地图纠偏</string>
+    <string name="description">由于政策限制，内嵌于第三方应用中的谷歌地图包在中国大陆地区有一个显著的偏移。本模块尝试纠正这个偏移，从而让应用中内嵌的谷歌地图在中国大陆地区具备可用性。</string>
+
+</resources>

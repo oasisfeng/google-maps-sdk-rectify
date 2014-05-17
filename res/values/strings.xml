@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Google Maps SDK Drift Fix for China</string>
+    <string name="description">Due to local regulation, the Google Maps SDK embedded in 3rd-party apps has a significant drift in China mainland. This module tries to fix the drift and make it usable in China.</string>
+    
+</resources>
